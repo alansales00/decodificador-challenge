@@ -11,7 +11,7 @@
 Este projeto tem como objetivo implementar funcionalidades básicas de criptografar e descriptografar textos inseridos pelo usuário. É uma aplicação simples que demonstra conceitos fundamentais de estruturação, estilização e interação de uma página web. Além disso, o projeto também foi uma excelente oportunidade para aprimorar habilidades de lógica de programação e organização básica de projetos.
 
 # Acesso ao Projeto
-Link:
+Link: https://alansales00.github.io/decodificador-challenge/
 
 # Funcionalidades
 - `Criptografar Texto`: Ao inserir o texto e apertar em criptografar, o usuário recebe o texto em sua forma criptografada.
